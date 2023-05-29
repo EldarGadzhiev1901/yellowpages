@@ -1,4 +1,4 @@
-import view, model 
+import view , model 
 
 def start():
     while True:
